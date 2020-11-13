@@ -5,7 +5,7 @@ A python client which provides an interface to cloud.redhat RBAC and entitlement
 ## Installation
 
 ```shell
-pip install https://github.com/RedHatInsights/cloud-infra-python
+pip install git+git://github.com/RedHatInsights/cloud-infra-python.git
 ```
 
 ## Usage
